@@ -9,8 +9,8 @@ doodle: "../doodle.png"
 This assignment will teach you to use JUnit to test implementations of an
 interface, and review a number of Java concepts.
 
-It is due on Tuesday, January 15 at 11pm. A submission link will be provided on
-Gradescope by Friday, January 11.
+It is due on Tuesday, January 14 at 11pm. A submission link will be provided on
+Gradescope by Friday, January 10.
 
 ## Baskets and Interns
 
